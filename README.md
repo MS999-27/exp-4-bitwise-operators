@@ -3,7 +3,7 @@
 To learn about bitwise operators in c++.
 
 # Software Used
-VS Code
+VS Code and Cpp Online Compiler
 # Problem Statement
 1.) Write a c++ program to do bitwise operation.
 
