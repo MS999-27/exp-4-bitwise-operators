@@ -65,9 +65,9 @@ int main() {
 ```
 # Output
 
-## Bitsat
+## Bit Operation
 ![Exp4 Bitsat](https://github.com/user-attachments/assets/607ef8e7-7dc8-40fd-b945-e90f501a5a84)
-### Bitsat Operator
+### Bit Position
 ![Exp 4 bitsat operator](https://github.com/user-attachments/assets/619311bb-31db-4b99-a4c6-0ce5bdc7ba68)
 
 
